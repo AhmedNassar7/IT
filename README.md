@@ -1,5 +1,5 @@
 # IT
-### Designed and created a robust network system for an organization.
+### Designed and created a robust simulation network system for an organization.
 ## Used:
 #### 1- Spanning Tree Protocol -> for loop prevention, efficient network path selection, and specify root and secondary switches.
 #### 2- Rapid PVST -> creates a separate spanning tree instance for each VLAN, convergence times, and close blocking time between switches.
@@ -10,3 +10,4 @@
 #### 7- VLAN Trunking Protocol (VTP) -> facilitates the distribution and synchronization of VLAN information among switches in a network and has 3 types server, client, and transparent.
 #### 8- Channel Group -> combines multiple physical interfaces into a logical bundle, increasing bandwidth, providing redundancy in network connections, and accepting more than one cable between switches.
 #### 9- VLAN routing -> enabling communication between distinct Virtual Local Area Networks (VLANs) using routing devices to facilitate inter-VLAN traffic.
+#### 10- Using Cisco program.
